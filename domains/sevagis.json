@@ -1,9 +1,11 @@
 {
+  "description": "SEVA.GIS - Precision Agriculture",
+  "repo": "https://github.com/virahitvin8/seva-gis",
   "owner": {
     "username": "virahitvin8",
     "email": "akshitvinay4636@gmail.com"
   },
-  "records": {
-    "CNAME": "sevagis.dpdns.org"
+  "record": {
+    "URL": "https://sevagis.dpdns.org"
   }
 }
